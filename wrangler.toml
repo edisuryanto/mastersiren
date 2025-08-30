@@ -22,7 +22,7 @@ build = { command = "cargo install worker-build && worker-build --dev" }
 [vars]
 UUID = "f282b878-8711-45a1-8c69-5564172123c1"
 
-MAIN_PAGE_URL = "https://raw.githubusercontent.com/stpdwrld/siren/refs/heads/master/web/index.html"
-SUB_PAGE_URL  = "https://raw.githubusercontent.com/stpdwrld/siren/refs/heads/master/web/sub.html"
-LINK_PAGE_URL = "https://raw.githubusercontent.com/stpdwrld/siren/refs/heads/master/web/link.html"
-CONVERTER_PAGE_URL = "https://raw.githubusercontent.com/stpdwrld/siren/refs/heads/master/web/converter.html"
+MAIN_PAGE_URL = "https://raw.githubusercontent.com/mastersiren/siren/refs/heads/master/web/index.html"
+SUB_PAGE_URL  = "https://raw.githubusercontent.com/mastersiren/siren/refs/heads/master/web/sub.html"
+LINK_PAGE_URL = "https://raw.githubusercontent.com/mastersiren/siren/refs/heads/master/web/link.html"
+CONVERTER_PAGE_URL = "https://raw.githubusercontent.com/mastersiren/siren/refs/heads/master/web/converter.html"
