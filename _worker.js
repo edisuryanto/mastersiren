@@ -14,6 +14,7 @@ let parsedSocks5Address = {};
 let enableSocks = false;
 let enableHttp = false;
 let proxyIPs;
+const expire = false;
 let socks5s;
 let go2Socks5s = [
     '*ttvnw.net',
